@@ -1,0 +1,7 @@
+name: Towns
+version: 1.0
+main: town.core.Core
+description: Type /t help for a list of commands.
+commands: 
+  t: 
+    description: The base command for Towns.
